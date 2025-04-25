@@ -49,12 +49,12 @@ pip install -r requirements.txt
 # Run the notebook
 jupyter notebook BraTS-2024_ver-2i.ipynb
 
-📌 **Results**
+📌 # **Results**
 Achieved high segmentation accuracy with smooth boundary detection.
 
 Visual overlays showed strong alignment with ground truth masks.
 
-🤝 **Acknowledgments**
+🤝# Acknowledgments
 BraTS 2020 Challenge
 
 TensorFlow/Keras for deep learning tools
